@@ -1,0 +1,9 @@
+venv
+
+inst
+instructions
+test
+
+__pycache__
+
+*.hex
